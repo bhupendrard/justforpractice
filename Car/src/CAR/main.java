@@ -8,6 +8,7 @@ public class main {
         honda.setModel("civic");
 
         System.out.println("model is "+honda.getModel());
+        //Print model of honda
         System.out.println("model is "+por.getModel());
         
     }
